@@ -1,0 +1,139 @@
+#header{
+    background-color:#fff;
+    
+}
+.sponsorshero{
+    background-image: url("https://media.istockphoto.com/photos/server-abstract-background-illustration-3d-rendering-picture-id1314979727?s=612x612");
+    height: 100%; 
+    /* body {
+        font-family: "Open Sans", sans-serif;
+        color: #444444;
+      }
+     */
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+
+  
+
+
+}
+.footer-top{
+    background: #fff;
+    text-align: center;
+  padding-top: 30px;
+  color: #012970;
+  
+}
+
+.footer .credits {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 13px;
+  color: #012970;
+}
+.footer-top ul li{
+    list-style: none;
+}
+.sponsors .content {
+  background-color: #f6f9ff;
+  padding: 40px;
+}
+
+.sponsors h3 {
+  font-size: 14px;
+  font-weight: 700;
+  color: #4154f1;
+  text-transform: uppercase;
+}
+
+.sponsors h2 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #012970;
+}
+
+.sponsors p {
+  margin: 15px 0 30px 0;
+  line-height: 24px;
+}
+
+.sponsors .btn-read-more {
+  line-height: 0;
+  padding: 15px 40px;
+  border-radius: 4px;
+  transition: 0.5s;
+  color: #fff;
+  background: #4154f1;
+  box-shadow: 0px 5px 25px rgba(65, 84, 241, 0.3);
+}
+
+.sponsors .btn-read-more span {
+  font-family: "Nunito", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+.sponsors .btn-read-more i {
+  margin-left: 5px;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+.sponsors .btn-read-more:hover i {
+  transform: translateX(5px);
+} 
+
+.sponsors1 .content {
+  background-color: #f6f9ff;
+  padding: 40px;
+}
+
+.sponsors1 h3 {
+  font-size: 14px;
+  font-weight: 700;
+  color: #4154f1;
+  text-transform: uppercase;
+}
+
+.sponsors1 h2 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #012970;
+}
+
+.sponsors1 p {
+  margin: 15px 0 30px 0;
+  line-height: 24px;
+}
+
+.sponsors1 .btn-read-more {
+  line-height: 0;
+  padding: 15px 40px;
+  border-radius: 4px;
+  transition: 0.5s;
+  color: #fff;
+  background: #4154f1;
+  box-shadow: 0px 5px 25px rgba(65, 84, 241, 0.3);
+}
+
+.sponsors1 .btn-read-more span {
+  font-family: "Nunito", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+.sponsors1 .btn-read-more i {
+  margin-left: 5px;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+.sponsors1 .btn-read-more:hover i {
+  transform: translateX(5px);
+} 
